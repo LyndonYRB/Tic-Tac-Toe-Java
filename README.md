@@ -1,4 +1,3 @@
-<div id="description" align="center">
 # Tic-Tac-Toe-Java
 
 ##### Created by Lyndon St.Luce
@@ -40,5 +39,3 @@ X| |
 
 make sure you type 1-9 and amke sure the space is not occupied otherwise you'll get a
 "`<insert number>` is not a valid move!" HAVE FUN!
-
-</div>
